@@ -1,13 +1,24 @@
-Hi, I am Pedro José Moreno Villar, a Full Stack Developer with a background as a team lead specializing in translation and localization from English into Spanish.
+Hi, I'm Pedro! 👋
 
-I am looking for a position where I can create and maintain responsive, user-friendly, and stunning websites and apps.
+I am a junior developer building full-stack web applications.
 
-Currently focused on:
-- JavaScript and React
+**Tech I work with**
 
-- Back-end fundamentals
+JavaScript | React | Node.js | Python | SQL
 
-- Building real projects and improving my problem-solving skills
+**Main Projects**
+
+- Recipe Square: full-stack recipe manager
+
+- Meal Planner: full-stack meal planner
+
+- Task Management App: productivity web app
+
+- Weather App: API integration project
+
+- Battleship: JavaScript game built with TDD
+
+---
 
 You can reach me over GitHub or via [LinkedIn](www.linkedin.com/in/pedromorenovillar).
 
