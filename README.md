@@ -10,14 +10,13 @@ JavaScript | React | Node.js | Python | SQL
 
 - Recipe Square: full-stack recipe manager
 
-- Meal Planner: full-stack meal planner
-
 - Task Management App: productivity web app
 
 - Weather App: API integration project
 
 - Battleship: JavaScript game built with TDD
 
+- Meal Planner: full-stack meal planner
 ---
 
 You can reach me over GitHub or via [LinkedIn](www.linkedin.com/in/pedromorenovillar).
