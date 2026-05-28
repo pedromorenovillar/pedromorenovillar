@@ -24,6 +24,7 @@ A full-stack web app to plan weekly menus and manage groceries. [Live Demo](http
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### [Task Management App](https://github.com/pedromorenovillar/task-management-application)
 A productivity web app tailored to freelance translators. [Live Demo](https://pedromorenovillar.github.io/task-management-application/)
