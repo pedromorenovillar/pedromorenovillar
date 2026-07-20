@@ -26,6 +26,17 @@ A full-stack web app to plan weekly menus and manage groceries. [Live Demo](http
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### [File Uploader](https://github.com) 
+A full-stack cloud storage app focused on backend reliability and security. [Live Demo](https://file-uploader-b14b40eb7fbc.herokuapp.com/)
+* **Key Features:** Prisma ORM data access, Cloudinary integration, dynamic breadcrumbs, and resource authorization.
+
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/prisma-6366f1?style=for-the-badge&logo=prisma&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Cloudinary](https://img.shields.io/badge/cloudinary-0d9aff?style=for-the-badge&logo=cloudinary&logoColor=ffffff)
+  ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
+  
 ### [Task Management App](https://github.com/pedromorenovillar/task-management-application)
 A productivity web app tailored to freelance translators. [Live Demo](https://pedromorenovillar.github.io/task-management-application/)
 * **Key Features:** Dynamic task creation, project separation, filtering and persistent data storage with LocalStorage.
@@ -34,13 +45,6 @@ A productivity web app tailored to freelance translators. [Live Demo](https://pe
   ![Webpack 5](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### [Weather App](https://github.com/pedromorenovillar/weather-app)
-A weather forecasting application with third-party API integration. [Live Demo](https://pedromorenovillar.github.io/weather-app/)
-* **Key Features:** location search, temperature toggle, loading states, responsive design.
-
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Webpack 5](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
 
 ### [Battleship](https://github.com/pedromorenovillar/battleship) 
 A classic board game built using Test-Driven Development (TDD) principles. [Live Demo](https://pedromorenovillar.github.io/battleship/public/)
