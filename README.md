@@ -26,7 +26,7 @@ A full-stack web app to plan weekly menus and manage groceries. [Live Demo](http
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### [File Uploader](https://github.com) 
+### [File Uploader](https://github.com/pedromorenovillar/file-uploader) 
 A full-stack cloud storage app focused on backend reliability and security. [Live Demo](https://file-uploader-b14b40eb7fbc.herokuapp.com/)
 * **Key Features:** Prisma ORM data access, Cloudinary integration, dynamic breadcrumbs, and resource authorization.
 
