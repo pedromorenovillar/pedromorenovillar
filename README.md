@@ -1,6 +1,10 @@
 # Hi, I'm Pedro! 👋
 
-I am a developer who loves solving problems and building full-stack web applications.
+I'm a full‑stack developer who loves learning, improving and building useful web applications.
+
+**Currently learning** TypeScript, Prisma best practices, testing strategies, and deployment workflows.
+
+I'm looking for junior full-stack or backend roles (remote or in Spain).
 
 ## Tech Stack
 
@@ -16,7 +20,7 @@ I am a developer who loves solving problems and building full-stack web applicat
 
 ### [Blog Platform (Ecosystem)](https://github.com/pedromorenovillar/blog_backend) 
 A full-stack blog platform driven by a central REST API and two decoupled React clients. [Live Demo](https://blog-public-client-d222d34a08ef.herokuapp.com/)
-* **Architecture:** Separate repositories for [Backend API](https://github.com/pedromorenovillar/blog_backend), [Public Client](https://github.com), and [Admin Client](https://github.com).
+* **Architecture:** Separate repositories for [Backend API](https://github.com/pedromorenovillar/blog_backend), [Public Client](https://github.com/pedromorenovillar/blog_public-client), and [Admin Client](https://github.com/pedromorenovillar/blog_admin-client).
 * **Key Features:** Hybrid JWT authentication (HttpOnly refresh cookies), Role-Based Access Control (RBAC), server-side validation, and comprehensive integration testing.
 
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -73,4 +77,4 @@ A productivity web app tailored to freelance translators. [Live Demo](https://pe
 
 ## Connect with me
 
-You can reach me over GitHub or via [LinkedIn](https://www.linkedin.com/in/pedromorenovillar).
+You can reach me over GitHub, via [LinkedIn](https://www.linkedin.com/in/pedromorenovillar) or at pjmorenovillar@gmail.com. Always happy to connect or collaborate!
