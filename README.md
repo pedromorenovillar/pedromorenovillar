@@ -2,7 +2,7 @@
 
 I'm a full‑stack developer who loves learning, improving and building useful web applications.
 
-**Currently learning** TypeScript, Prisma best practices, testing strategies, and deployment workflows.
+**Currently working** with TypeScript, Prisma best practices, testing strategies, and deployment workflows.
 
 I'm looking for junior full-stack or backend roles (remote or in Spain).
 
@@ -35,7 +35,7 @@ A full-stack blog platform driven by a central REST API and two decoupled React 
 
 ### [Meal Planner](https://github.com/pedromorenovillar/meal-planner) 
 A full-stack web app to plan weekly menus and manage groceries. [Live Demo](https://meal-planner-pjmv-03a35e62d0b3.herokuapp.com/)
-* **Key Features:** User authentication, automated grocery list generation and responsive design.
+* **Key Features:** SQLite-to-PostgreSQL migration, user authentication, automated grocery list generation, and responsive design.
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
