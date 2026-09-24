@@ -4,7 +4,7 @@ I'm a full‑stack developer who loves learning, improving and building useful w
 
 **Currently working** with TypeScript, Prisma best practices, testing strategies, and deployment workflows.
 
-I'm looking for junior full-stack or backend roles (remote or in the Basque Country or Navarre).
+I'm looking for full-stack or backend roles (remote or in the Basque Country or Navarre).
 
 ## Tech Stack
 
