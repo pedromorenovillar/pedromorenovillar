@@ -64,17 +64,13 @@ A classic board game built using Test-Driven Development (TDD) principles. [Live
   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   
-### [Task Management App](https://github.com/pedromorenovillar/task-management-application)
-A productivity web app tailored to freelance translators. [Live Demo](https://pedromorenovillar.github.io/task-management-application/)
-* **Key Features:** Dynamic task creation, project separation, filtering and persistent data storage with LocalStorage.
-
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Webpack 5](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ---
 
 ## Connect with me
+Always happy to connect or collaborate!
 
-You can reach me over GitHub, via [LinkedIn](https://www.linkedin.com/in/pedromorenovillar) or at pjmorenovillar@gmail.com. Always happy to connect or collaborate!
+🌐 [Portfolio](https://pedromorenovillar.dev/)
+
+💼 [LinkedIn](https://www.linkedin.com/in/pedromorenovillar)
+
+📧 [Email](pjmorenovillar@gmail.com)
