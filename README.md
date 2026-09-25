@@ -26,20 +26,20 @@ I'm looking for full-stack or backend roles (remote or in the Basque Country or 
 ## Main Projects
 
 ### [Blog Platform (Ecosystem)](https://github.com/pedromorenovillar/blog_backend) 
-A full-stack blog platform driven by a central REST API and two decoupled React clients. [Live Demo](https://blog-public-client-d222d34a08ef.herokuapp.com/)
+A full-stack blog platform driven by a central REST API and two decoupled React clients. [Live Demo](https://blog-public-client-d222d34a08ef.herokuapp.com/) (Demo login: demo@example.com | Demo password: demo1234)
 * **Architecture:** Separate repositories for [Backend API](https://github.com/pedromorenovillar/blog_backend), [Public Client](https://github.com/pedromorenovillar/blog_public-client), and [Admin Client](https://github.com/pedromorenovillar/blog_admin-client).
 * **Key Features:** Hybrid JWT authentication (HttpOnly refresh cookies), Role-Based Access Control (RBAC), server-side validation, and comprehensive integration testing.
 
 React | Vite | Node.js | Express | Prisma | PostgreSQL | Passport.js | Jest | Supertest
 
 ### [Meal Planner](https://github.com/pedromorenovillar/meal-planner) 
-A full-stack web app to plan weekly menus and manage groceries. [Live Demo](https://meal-planner-pjmv-03a35e62d0b3.herokuapp.com/)
+A full-stack web app to plan weekly menus and manage groceries. [Live Demo](https://meal-planner-pjmv-03a35e62d0b3.herokuapp.com/) (Demo login: Testuser | Demo password: demo1234)
 * **Key Features:** SQLite-to-PostgreSQL migration, user authentication, automated grocery list generation, and responsive design.
 
 JavaScript | Python | Flask | SQLite | PostgreSQL | Supabase | Bootstrap
 
 ### [File Uploader](https://github.com/pedromorenovillar/file-uploader) 
-A full-stack cloud storage app focused on backend reliability and security. [Live Demo](https://file-uploader-b14b40eb7fbc.herokuapp.com/)
+A full-stack cloud storage app focused on backend reliability and security. [Live Demo](https://file-uploader-b14b40eb7fbc.herokuapp.com/) (Demo login: demo@example.com | Demo password: demo1234)
 * **Key Features:** Prisma ORM data access, Cloudinary integration, dynamic breadcrumbs, and resource authorization.
 
 Node.js | Express | Prisma | PostgreSQL | Cloudinary | Passport.js
