@@ -8,10 +8,12 @@ I'm looking for full-stack or backend roles (remote or in the Basque Country or 
 
 ## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-6366f1?style=for-the-badge&logo=prisma&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
@@ -23,15 +25,7 @@ A full-stack blog platform driven by a central REST API and two decoupled React 
 * **Architecture:** Separate repositories for [Backend API](https://github.com/pedromorenovillar/blog_backend), [Public Client](https://github.com/pedromorenovillar/blog_public-client), and [Admin Client](https://github.com/pedromorenovillar/blog_admin-client).
 * **Key Features:** Hybrid JWT authentication (HttpOnly refresh cookies), Role-Based Access Control (RBAC), server-side validation, and comprehensive integration testing.
 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/prisma-6366f1?style=for-the-badge&logo=prisma&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
-  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![Supertest](https://img.shields.io/badge/supertest-C21325?style=for-the-badge&logo=supertest&logoColor=white)
+React | Vite | Node.js | Express | Prisma | PostgreSQL | Passport.js | Jest | Supertest
 
 ### [Meal Planner](https://github.com/pedromorenovillar/meal-planner) 
 A full-stack web app to plan weekly menus and manage groceries. [Live Demo](https://meal-planner-pjmv-03a35e62d0b3.herokuapp.com/)
