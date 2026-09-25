@@ -2,7 +2,7 @@
 
 I'm a former Nintendo Team Lead who transitioned into software development.
 
-Now I'm a full-stack developer focused on building reliable and scalable web applications.
+Now I'm a Full-Stack Developer focused on building reliable and scalable web applications.
 
 **Currently working** with TypeScript, Prisma ORM, testing strategies, and deployment workflows.
 
