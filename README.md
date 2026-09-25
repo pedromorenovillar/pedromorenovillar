@@ -1,14 +1,18 @@
 # Hi, I'm Pedro! 👋
 
-I'm a full‑stack developer who loves learning, improving and building useful web applications.
+I'm a former Nintendo Team Lead who transitioned into software development.
+
+Now I'm a Full-Stack Developer focused on building reliable and scalable web applications.
 
 **Currently working** with TypeScript, Prisma best practices, testing strategies, and deployment workflows.
 
 I'm looking for full-stack or backend roles (remote or in the Basque Country or Navarre).
 
+🌐 Portfolio: [pedromorenovillar.dev](https://pedromorenovillar.dev)
+
 ## Tech Stack
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-6366f1?style=for-the-badge&logo=prisma&logoColor=white)
@@ -51,8 +55,8 @@ JavaScript | Jest | Node.js
 ## Connect with me
 Always happy to connect or collaborate!
 
-🌐 [Portfolio](https://pedromorenovillar.dev/)
+🌐 Portfolio: [pedromorenovillar.dev](https://pedromorenovillar.dev/)
 
-💼 [LinkedIn](https://www.linkedin.com/in/pedromorenovillar)
+💼 LinkedIn: [linkedin.com/in/pedromorenovillar](https://www.linkedin.com/in/pedromorenovillar)
 
-📧 [Email](pjmorenovillar@gmail.com)
+📧 Email: <pjmorenovillar@gmail.com>
