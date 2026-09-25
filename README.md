@@ -8,13 +8,14 @@ I'm looking for full-stack or backend roles (remote or in the Basque Country or 
 
 ## Tech Stack
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-6366f1?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-6366f1?style=for-the-badge&logo=prisma&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
@@ -31,32 +32,19 @@ React | Vite | Node.js | Express | Prisma | PostgreSQL | Passport.js | Jest | Su
 A full-stack web app to plan weekly menus and manage groceries. [Live Demo](https://meal-planner-pjmv-03a35e62d0b3.herokuapp.com/)
 * **Key Features:** SQLite-to-PostgreSQL migration, user authentication, automated grocery list generation, and responsive design.
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+JavaScript | Python | Flask | SQLite | PostgreSQL | Supabase | Bootstrap
 
 ### [File Uploader](https://github.com/pedromorenovillar/file-uploader) 
 A full-stack cloud storage app focused on backend reliability and security. [Live Demo](https://file-uploader-b14b40eb7fbc.herokuapp.com/)
 * **Key Features:** Prisma ORM data access, Cloudinary integration, dynamic breadcrumbs, and resource authorization.
 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/prisma-6366f1?style=for-the-badge&logo=prisma&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Cloudinary](https://img.shields.io/badge/cloudinary-0d9aff?style=for-the-badge&logo=cloudinary&logoColor=ffffff)
-  ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
+Node.js | Express | Prisma | PostgreSQL | Cloudinary | Passport.js
 
 ### [Battleship](https://github.com/pedromorenovillar/battleship) 
 A classic board game built using Test-Driven Development (TDD) principles. [Live Demo](https://pedromorenovillar.github.io/battleship/public/)
 * **Key Features:** AI opponent, interactive grid placement and tested game logic.
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+JavaScript | Jest | Node.js
   
 ---
 
