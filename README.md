@@ -26,7 +26,12 @@ I'm looking for full-stack or backend roles (remote or in the Basque Country or 
 ## Main Projects
 
 ### [Blog Platform (Ecosystem)](https://github.com/pedromorenovillar/blog_backend) 
-A full-stack blog platform driven by a central REST API and two decoupled React clients. [Live Demo](https://blog-public-client-d222d34a08ef.herokuapp.com/) (Demo account: demo@example.com | Password: demo1234)
+A full-stack blog platform driven by a central REST API and two decoupled React clients.
+
+[Live Demo](https://blog-public-client-d222d34a08ef.herokuapp.com/)
+
+(Demo account: demo@example.com | Password: demo1234)
+
 * **Architecture:** Separate repositories for [Backend API](https://github.com/pedromorenovillar/blog_backend), [Public Client](https://github.com/pedromorenovillar/blog_public-client), and [Admin Client](https://github.com/pedromorenovillar/blog_admin-client).
 * **Key Features:** Hybrid JWT authentication (HttpOnly refresh cookies), Role-Based Access Control (RBAC), server-side validation, and comprehensive integration testing.
 
